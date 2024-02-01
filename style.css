@@ -213,3 +213,17 @@ input{
     list-style: none;
     color: white;
 }
+.sub{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.fb{
+    background-color: #00b6d1;
+    margin: 20px 0;
+    border-radius: 5px;
+}
