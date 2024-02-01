@@ -204,10 +204,12 @@ input{
     height: 40px;
 }
 .gridd{
+    background-color: black;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     gap:12px
 }
-ul{
+.gridd ul{
     list-style: none;
+    color: white;
 }
